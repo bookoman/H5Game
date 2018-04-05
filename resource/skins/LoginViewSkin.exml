@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="LoginViewSkin" width="750" height="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="blank_hd_png" x="0" y="0" width="750" height="1334" locked="true"/>
+	<e:Panel width="536" height="327" y="306" x="121">
+		<e:Image source="blank_diy_png" anchorOffsetX="0" width="536" anchorOffsetY="0" height="327" scaleX="1" scaleY="1" x="0" y="0"/>
+		<e:Label text="账号：" x="112" y="91.49" textColor="0x000000" fontFamily="Arial" scaleX="1" scaleY="1"/>
+		<e:Label text="密码：" x="112" y="170.82" textColor="0x000000" fontFamily="Arial" scaleX="1" scaleY="1"/>
+		<e:EditableText id="inputAccount" width="200" height="30" text="" x="217" y="94.33" anchorOffsetY="0" anchorOffsetX="0" border="true" scaleX="1" scaleY="1" textColor="0x0c0b0b" size="24"/>
+		<e:EditableText id="inputPwd" width="200" height="30" text="" x="217" y="171.17" anchorOffsetY="0" anchorOffsetX="0" bold="true" border="true" scaleX="1" scaleY="1" textColor="0x0c0c0c" size="24"/>
+		<e:Button id="btnLogin" label="登  录" x="207.31" y="240" width="100" height="40" scaleX="1" scaleY="1">
+			<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="btn_dz1_png" source.down="btn_dz2_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+			</e:skinName>
+		</e:Button>
+	</e:Panel>
+	
+</e:Skin>

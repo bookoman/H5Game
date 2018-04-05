@@ -1,0 +1,200 @@
+{
+	"groups": [
+		{
+			"keys": "win_yellow_png,vscroll$up_3_png,vscroll$up_2_png,vscroll$up_1_png,vscroll$down_3_png,vscroll$down_2_png,vscroll$down_1_png,vscroll$bar_3_png,vscroll$bar_2_png,vscroll$bar_1_png,vscroll_png,unlock2_png,unlock1_png,lock2_png,lock1_png,line_png,img_sd_png,img_fx_png,ggp_png,genzhu_lan_png,clear2_png,clear1_png,btn_zbfl_png,btn_xz_png,btn_wx_png,btn_wf_png,btn_wdz3_png,btn_wdz2_png,btn_wdz1_png,btn_dz3_png,btn_dz2_png,btn_dz1_png,btn_bzz3_png,btn_bzz2_png,btn_bzz1_png,blank_hd_png,blank_diy_png,allin_red_png",
+			"name": "main"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/main/allin_red.png",
+			"type": "image",
+			"name": "allin_red_png"
+		},
+		{
+			"url": "assets/main/blank_diy.png",
+			"type": "image",
+			"name": "blank_diy_png"
+		},
+		{
+			"url": "assets/main/blank_hd.png",
+			"type": "image",
+			"name": "blank_hd_png"
+		},
+		{
+			"url": "assets/main/btn_bzz1.png",
+			"type": "image",
+			"name": "btn_bzz1_png"
+		},
+		{
+			"url": "assets/main/btn_bzz2.png",
+			"type": "image",
+			"name": "btn_bzz2_png"
+		},
+		{
+			"url": "assets/main/btn_bzz3.png",
+			"type": "image",
+			"name": "btn_bzz3_png"
+		},
+		{
+			"url": "assets/main/btn_dz1.png",
+			"type": "image",
+			"name": "btn_dz1_png"
+		},
+		{
+			"url": "assets/main/btn_dz2.png",
+			"type": "image",
+			"name": "btn_dz2_png"
+		},
+		{
+			"url": "assets/main/btn_dz3.png",
+			"type": "image",
+			"name": "btn_dz3_png"
+		},
+		{
+			"url": "assets/main/btn_wdz1.png",
+			"type": "image",
+			"name": "btn_wdz1_png"
+		},
+		{
+			"url": "assets/main/btn_wdz2.png",
+			"type": "image",
+			"name": "btn_wdz2_png"
+		},
+		{
+			"url": "assets/main/btn_wdz3.png",
+			"type": "image",
+			"name": "btn_wdz3_png"
+		},
+		{
+			"url": "assets/main/btn_wf.png",
+			"type": "image",
+			"name": "btn_wf_png"
+		},
+		{
+			"url": "assets/main/btn_wx.png",
+			"type": "image",
+			"name": "btn_wx_png"
+		},
+		{
+			"url": "assets/main/btn_xz.png",
+			"type": "image",
+			"name": "btn_xz_png"
+		},
+		{
+			"url": "assets/main/btn_zbfl.png",
+			"type": "image",
+			"name": "btn_zbfl_png"
+		},
+		{
+			"url": "assets/main/clear1.png",
+			"type": "image",
+			"name": "clear1_png"
+		},
+		{
+			"url": "assets/main/clear2.png",
+			"type": "image",
+			"name": "clear2_png"
+		},
+		{
+			"url": "assets/main/genzhu_lan.png",
+			"type": "image",
+			"name": "genzhu_lan_png"
+		},
+		{
+			"url": "assets/main/ggp.png",
+			"type": "image",
+			"name": "ggp_png"
+		},
+		{
+			"url": "assets/main/img_fx.png",
+			"type": "image",
+			"name": "img_fx_png"
+		},
+		{
+			"url": "assets/main/img_sd.png",
+			"type": "image",
+			"name": "img_sd_png"
+		},
+		{
+			"url": "assets/main/line.png",
+			"type": "image",
+			"name": "line_png"
+		},
+		{
+			"url": "assets/main/lock1.png",
+			"type": "image",
+			"name": "lock1_png"
+		},
+		{
+			"url": "assets/main/lock2.png",
+			"type": "image",
+			"name": "lock2_png"
+		},
+		{
+			"url": "assets/main/unlock1.png",
+			"type": "image",
+			"name": "unlock1_png"
+		},
+		{
+			"url": "assets/main/unlock2.png",
+			"type": "image",
+			"name": "unlock2_png"
+		},
+		{
+			"url": "assets/main/vscroll$bar_1.png",
+			"type": "image",
+			"name": "vscroll$bar_1_png"
+		},
+		{
+			"url": "assets/main/vscroll$bar_2.png",
+			"type": "image",
+			"name": "vscroll$bar_2_png"
+		},
+		{
+			"url": "assets/main/vscroll$bar_3.png",
+			"type": "image",
+			"name": "vscroll$bar_3_png"
+		},
+		{
+			"url": "assets/main/vscroll$down_1.png",
+			"type": "image",
+			"name": "vscroll$down_1_png"
+		},
+		{
+			"url": "assets/main/vscroll$down_2.png",
+			"type": "image",
+			"name": "vscroll$down_2_png"
+		},
+		{
+			"url": "assets/main/vscroll$down_3.png",
+			"type": "image",
+			"name": "vscroll$down_3_png"
+		},
+		{
+			"url": "assets/main/vscroll$up_1.png",
+			"type": "image",
+			"name": "vscroll$up_1_png"
+		},
+		{
+			"url": "assets/main/vscroll$up_2.png",
+			"type": "image",
+			"name": "vscroll$up_2_png"
+		},
+		{
+			"url": "assets/main/vscroll$up_3.png",
+			"type": "image",
+			"name": "vscroll$up_3_png"
+		},
+		{
+			"url": "assets/main/vscroll.png",
+			"type": "image",
+			"name": "vscroll_png"
+		},
+		{
+			"url": "assets/main/win_yellow.png",
+			"type": "image",
+			"name": "win_yellow_png"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/res/res.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/dragonBones/dragonBones.js",
+		"libs/modules/game/game.js",
+		"libs/modules/socket/socket.js",
+		"libs/modules/egret3d/egret3d.js",
+		"libs/modules/experimental/experimental.js",
+		"promise/bin/promise.js"
+	],
+	"game": [
+		"bin-debug/com/xl/game/core/scene/BaseScene.js",
+		"bin-debug/com/xl/game/core/SceneManager.js",
+		"bin-debug/Main.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/com/xl/game/control/GameSceneViewMediator.js",
+		"bin-debug/com/xl/game/control/LoginViewMediator.js",
+		"bin-debug/com/xl/game/control/SignViewMediator.js",
+		"bin-debug/com/xl/game/core/LayerManager.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/com/xl/game/core/TipsMananger.js",
+		"bin-debug/com/xl/game/core/const/Const.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/com/xl/game/core/scene/GameScene.js",
+		"bin-debug/com/xl/game/core/scene/LoginScene.js",
+		"bin-debug/com/xl/game/core/tips/FloatFontTip.js",
+		"bin-debug/com/xl/game/core/tips/PopDialogTip.js",
+		"bin-debug/com/xl/game/core/util/ObjectPool.js"
+	]
+}
